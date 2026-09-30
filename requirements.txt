@@ -1,0 +1,7 @@
+streamlit
+pandas
+openpyxl
+openai
+python-dotenv
+networkx
+pyvis
